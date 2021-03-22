@@ -43,5 +43,5 @@ const tabsAppender = (selector) => {
       target.append(Tabs(response.data.topics));
     })
 }
-
+//note
 export { Tabs, tabsAppender }
